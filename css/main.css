@@ -20,9 +20,7 @@
 
 @font-face{
     font-family: Typewriter;
-    src: url("../fonts/fonts/Modern Bold Italic.ttf") format("ttf"),
-        url("../fonts/monospacetypewriter-webfont.woff") format("woff"),
-        url("../fonts/monospacetypewriter-webfont.woff2") format("woff2");
+    src: url("../fonts/fonts/Modern Bold Italic.ttf") format("ttf"):
 }
 
 @keyframes resource-hue-spin{
