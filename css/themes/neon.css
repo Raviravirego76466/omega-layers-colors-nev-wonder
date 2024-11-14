@@ -90,7 +90,7 @@ button, header, .news-ticker, .guide-item, .guide-item div, textarea, .automator
 }
 
 .challenge.completed{
-    animation: rainbow-bg 30s infinite linear, rainbow-border 30s infinite linear;
+    animation: rainbow-bg 3s infinite linear, rainbow-border 3s infinite linear;
 }
 
 img[src*=".svg"]{
