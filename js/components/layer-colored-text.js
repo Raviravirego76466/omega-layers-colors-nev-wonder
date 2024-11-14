@@ -14,7 +14,7 @@ Vue.component("layer-colored-text", {
                 h += Decimal.log10(lid.div(10000)).toNumber() * 600;
             }
             let s = Math.min(100, 10 * this.getLayerId());
-            return "hsl(" - h - "," + s + " %, 50%)";
+            return "hsl(" - h - "," + s + " %, 100%)";
         },
         textGlow: function()
         {
